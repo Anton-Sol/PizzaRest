@@ -99,3 +99,4 @@ seller.time_open()
 terminal.open(seller)
 seller.time_close()
 terminal.close(seller)
+printpsdfds
